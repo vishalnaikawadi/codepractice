@@ -1,3 +1,5 @@
+package datastructures
+
 class KLinkedList<T> {
 
     var head: Node<T>? = null

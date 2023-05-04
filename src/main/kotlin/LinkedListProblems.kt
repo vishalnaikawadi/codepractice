@@ -1,6 +1,4 @@
-import com.sun.source.tree.Tree
-import java.util.*
-import javax.swing.tree.TreeNode
+import datastructures.KLinkedList
 
 fun main() {
 
@@ -17,11 +15,11 @@ fun main() {
     kList.addLast(10)
 //    println(findMidPoint(kList))
 
-//    val kList2 = KLinkedList<Int>()
-//    val a = KLinkedList.Node(1, null)
-//    val b = KLinkedList.Node(2, null)
-//    val c = KLinkedList.Node(3, null)
-//    val d = KLinkedList.Node(4, null)
+//    val kList2 = datastructures.KLinkedList<Int>()
+//    val a = datastructures.KLinkedList.Node(1, null)
+//    val b = datastructures.KLinkedList.Node(2, null)
+//    val c = datastructures.KLinkedList.Node(3, null)
+//    val d = datastructures.KLinkedList.Node(4, null)
 //    kList2.head = a
 //    a.next = b
 //    b.next = c
