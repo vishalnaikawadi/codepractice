@@ -1,3 +1,5 @@
+package algorithms
+
 fun main() {
 
     val arrToBeSorted = intArrayOf(-2, 54, 1, 221, 5, 88, 31)
